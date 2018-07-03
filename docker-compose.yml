@@ -1,0 +1,6 @@
+#
+# Docker compose file for the latest container builds
+#
+jpmorgantrading:
+  image: jpmc/tradereporting:latest
+  restart: always
